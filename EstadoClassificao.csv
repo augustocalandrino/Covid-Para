@@ -1,0 +1,33 @@
+﻿UF;Estado;Região
+Rondônia (RO);Rondônia;Norte
+Acre (AC);Acre;Norte
+Amazonas (AM);Amazonas;Norte
+Roraima (RR);Roraima;Norte
+Pará (PA);Pará;Norte
+Amapá (AP);Amapá;Norte
+Tocantins (TO);Tocantins;Norte
+Norte;Norte;Norte
+Maranhão (MA);Maranhão;Nordeste
+Piauí (PI);Piauí;Nordeste
+Ceará (CE);Ceará;Nordeste
+Rio Grande do Norte (RN);Rio Grande do Norte;Nordeste
+Paraíba (PB);Paraíba;Nordeste
+Pernambuco (PE);Pernambuco;Nordeste
+Alagoas (AL);Alagoas;Nordeste
+Sergipe (SE);Sergipe;Nordeste
+Bahia (BA);Bahia;Nordeste
+Nordeste;Nordeste;Nordeste
+Minas Gerais (MG);Minas Gerais;Sudeste
+Espí­rito Santo (ES);Espírito Santo;Sudeste
+Rio de Janeiro (RJ)*;Rio de Janeiro;Sudeste
+São Paulo (SP)**;São Paulo;Sudeste
+Sudeste;Sudeste;Sudeste
+Paraná (PR);Paraná;Sul
+Santa Catarina (SC);Santa Catarina;Sul
+Rio Grande do Sul (RS);Rio Grande do Sul;Sul
+Sul;Sul;Sul
+Mato Grosso do Sul (MS);Mato Grosso do Sul;Centro-Oeste
+Mato Grosso (MT);Mato Grosso;Centro-Oeste
+Goiás (GO);Goiás;Centro-Oeste
+Distrito Federal (DF);Distrito Federal;Centro-Oeste
+Centro-Oeste;Centro-Oeste;Centro-Oeste
